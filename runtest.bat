@@ -1,0 +1,1 @@
+node node_modules\webdriverio\bin\wdio wdio.conf.js

@@ -1,0 +1,23 @@
+﻿{
+  "name": "webdriverio-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "wdio-jasmine-framework": "^0.2.19",
+    "wdio-mocha-framework": "^0.5.8",
+    "webdriverio": "^4.6.1"
+  },
+  "devDependencies": {
+    "wdio-jasmine-framework": "^0.2.19"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Kanumowa <no@email.com> (kartka.by)",
+  "license": "ISC"
+}
